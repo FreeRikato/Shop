@@ -12,7 +12,7 @@
 3. npm add crypto-js
 4. npm add jsonwebtoken
 5. npm add stripe
-6. npm add react-strip-checkout
+6. npm add react-stripe-checkout
 7. npm add cors
 8. npm add timeago.js
 9. npm i --save csvtojson
